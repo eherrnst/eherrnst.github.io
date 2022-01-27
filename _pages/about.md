@@ -10,5 +10,5 @@ redirect_from:
 
 New website in progress -- please ignore content.
 
-Current website[here](https://www.evanherrnstadt.com)
+Current website [here](https://www.evanherrnstadt.com)
 
