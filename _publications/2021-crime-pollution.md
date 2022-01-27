@@ -1,7 +1,7 @@
 ---
 title: "Air Pollution and Criminal Activity: Microgeographic Evidence from Chicago"
 collection: publications
-permalink: /publication/2019-bayespostest
+permalink: /publication/2021-crime-pollution
 date: 2021-10-01
 venue: 'American Economic Journal: Applied Economics'
 paperurl: '/files/pdf/research/hhms-crime-and-pollution-aej.pdf'
