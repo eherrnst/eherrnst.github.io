@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
     
   # - title: "Research"
@@ -15,5 +15,5 @@ main:
   # - title: "Posts"
     # url: /posts/
     
-  # - title: "CV"
-    # url: /cv/
+  - title: "CV"
+     url: /files/pdf/HerrnstadtCV_current.pdf
