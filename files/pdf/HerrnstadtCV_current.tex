@@ -1,0 +1,192 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+
+% Set your name here
+\def\name{Evan M. Herrnstadt}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{http://www.evanherrnstadt.com/docs/HerrnstadtCV_current.pdf/}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {economics, statistics, mathematics},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large \textbf}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \vspace{-0.5em}
+  \begin{list}{}{
+	\itemsep=0em
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+\begin{document}
+
+% Place name at left
+{\Large \textbf\name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+  \href{http://www.cbo.gov/}{Congressional Budget Office} \\
+  Ford House Office Building \\
+  2nd and D St. SW \\
+  Washington, DC 20515
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    Email: & \href{mailto:Evan.Herrnstadt@cbo.gov}{\tt Evan.Herrnstadt@cbo.gov} \\
+    Homepage: & \href{http://www.evanherrnstadt.com/}{\tt http://www.evanherrnstadt.com/} \\
+    Citizenship: & United States \\
+  \end{tabular}
+\end{minipage}
+
+
+\section*{Education}
+
+\begin{itemize}
+  \item B.S., Economics (honors) and Political Science, University of Iowa \hfill 2006
+
+  \item M.A., Economics, University of Michigan \hfill 2011
+
+  \item Ph.D., Economics, University of Michigan \hfill 2015
+\end{itemize}
+
+
+\section*{Employment}
+\begin{itemize}
+\item Principal Analyst, Microeconomic Studies Division, Congressional Budget Office \hfill 2021--Present
+\item Associate Analyst, Microeconomic Studies Division, Congressional Budget Office \hfill 2019--2021
+\item Vice President, Compass Lexecon \hfill 2019
+\item Senior Economist, Compass Lexecon \hfill  2017--2019
+\item Kernan Brothers Environmental Fellow, Harvard University \hfill 2015--2017
+\end{itemize}
+
+
+\section*{Publications}
+
+\begin{itemize}
+\item Herrnstadt, Evan, Anthony Heyes, Erich Muehlegger, and Soodeh Saberian “Air Pollution and Criminal Activity: Microgeographic Evidence from Chicago”, Accepted at \emph{American Economic Journal: Applied Economics}
+
+\item Herrnstadt, Evan, Ian Parry, and Juha Siikamäki. “Do alcohol taxes in Europe and the US rightly correct for externalities?” \textit{International Tax and Public Finance}, 22 (Feb. 2015), 73-101.
+
+\item Herrnstadt, Evan, and Erich Muehlegger.  “Weather, Salience of Climate Change, and Congressional Voting.” \textit{Journal of Environmental Economics and Management}, 68 (Nov. 2014), 435-448.
+
+\item Fischer, Carolyn, Evan Herrnstadt, and Richard Morgenstern. “Understanding Errors in EIA Projections of Energy Demand.”  \textit{Resource and Energy Economics}, 30 (Aug. 2009), 198-209.
+\end{itemize}
+
+\section*{Working Papers}
+
+\begin{itemize}
+\item “Royalties and Deadlines in Oil and Gas Leasing: Theory and Evidence” 
+(with Ryan Kellogg and Eric Lewis), Revise and Resubmit at \emph{Econometrica}
+
+\item “Housing Market Capitalization of Pipeline Risk: Evidence from the San Bruno Explosion”
+(with Richard Sweeney), Revise and Resubmit at \emph{Land Economics}
+
+\item “Conservation Versus Competition? Environmental Objectives in Government Contracting” 
+
+\end{itemize}
+
+\section*{Congressional Budget Office Products}
+\begin{itemize}
+\item Cost Estimate for S. 2881, 5G Spectrum Act (2019)
+\item Cost Estimate for H.R. 3, Elijah E. Cummings Lower Drug Costs Now Act (2019)
+\item \textit{CBO’s Estimate of the Effects of Climate Change on U.S. Economic Output} (with Terry Dinan), CBO Working Paper 2020-06
+\item \textit{CBO’s Model of Drug Price Negotiations Under the Elijah E. Cummings Lower Drug Costs Now Act} (with Chris Adams), CBO Working Paper 2021-01
+\end{itemize}
+
+\section*{Consulting Casework}
+\begin{itemize}
+\item \textbf{Completed merger of AT\&T and Time Warner}
+\begin{itemize}
+\item Supported experts Dennis Carlton and Michael Katz on behalf of the defendants in \textit{United States of America vs. AT\&T, Inc. et al.}
+\end{itemize}
+\item \textbf{Completed merger of T-Mobile and Sprint}
+\begin{itemize}
+\item Supported experts Mark Israel, Michael Katz, and Bryan Keating on behalf of the merging parties.
+\end{itemize}
+\end{itemize}
+
+\section*{Awards and Fellowships}
+\begin{itemize}
+\item CBO Director's Award \hfill 2021
+\item Joseph L. Fisher Dissertation Fellowship, Resources for the Future	\hfill 2014
+\item Phi Beta Kappa, Alpha of Iowa Chapter	\hfill 2006
+\end{itemize}
+
+\section*{Selected Presentations}
+\begin{itemize}
+	\item 2018-19: Resources for the Future
+	\item 2017-18: University of Pennsylvania (Wharton/Kleinman Center for Energy Policy)
+	\item 2016-17: Harvard Kennedy School, University of Michigan
+	\item 2015-16: AEA Annual Meetings, AERE Summer Conference, University of Illinois Heartland Workshop
+	\item 2014-15: NBER Hydrocarbon Infrastructure and Transport, NBER SI EEE (sketch), Resources for the Future
+\end{itemize}
+
+\section*{Professional Activities}
+\begin{itemize}
+\item Referee for AEJ:Policy, JEEM, JAERE, Nature Energy
+\end{itemize}
+
+
+\end{document}
