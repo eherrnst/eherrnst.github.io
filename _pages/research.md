@@ -15,7 +15,7 @@ Working Papers
 [[Code]](https://github.com/kelloggrk/Public_HBP)
 
 "Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness" (with Richard Sweeney) &nbsp;&nbsp; Revise and Resubmit, *Land Economics*  
-[[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf) 
+[[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w23858/w23858.pdf)
 [[Code]](https://github.com/rlsweeney/public_HS_pipelines)
 
 
