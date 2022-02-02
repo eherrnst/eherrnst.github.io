@@ -11,9 +11,8 @@ Working Papers
 ======
 
 "The Economics of Time-Limited Development Options: The Case of Oil and Gas Leases" (with Ryan Kellogg and Eric Lewis) Revise and Resubmit, *Econometrica*  
-[[PDF]](https://eherrnst.github.io/files/pdf/hkl-leasing.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w27165/w27165.pdf)
+[[PDF]](https://eherrnst.github.io/files/pdf/research/hkl-leasing.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w27165/w27165.pdf)
 [[Code]](https://github.com/kelloggrk/Public_HBP)
-
 
 "Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness" (with Richard Sweeney) Revise and Resubmit, *Land Economics*  
 [[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf) 
@@ -22,10 +21,16 @@ Working Papers
 
 Published Papers
 ======
+"Air Pollution and Criminal Activity: Microgeographic Evidence from Chicago" (with Anthony Heyes, Erich Muehlegger, and Soodeh Saberian)  
+[*American Economic Journal: Applied Economics*](https://doi.org/10.1257/app.20190091) (2021)  
+[[PDF]](https://eherrnst.github.io/files/pdf/research/hhms-crime-and-pollution-aej.pdf) [[Code]](https://doi.org/10.3886/E119403V1)
+
+"Do Alcohol Taxes in Europe and the US Rightly Correct for Externalities?" (with Ian Parry and Juha Sikkamäki)  
+[*International Tax and Public Finance*](https://doi.org/10.1007/s10797-013-9294-8) (2015)  
+
 "Weather, Salience of Climate Change, and Congressional Voting" (with Erich Muehlegger)  
 [*Journal of Environmental Economics and Management*](https://doi.org/10.1016/j.jeem.2014.08.002) (2014)  
 [[PDF]](https://eherrnst.github.io/files/pdf/research/hm-climate-voting.pdf)
-
 
 "Understanding Errors in EIA Projections of Energy Demand" (with Carolyn Fischer and Richard Morgenstern)  
 [*Resource and Energy Economics*](https://doi.org/10.1016/j.reseneeco.2009.04.003) (2009)  
