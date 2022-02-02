@@ -3,6 +3,8 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "CBO Products"
+    url: /cbo-products/
   # - title: "Research"
     # url: /research/
 
