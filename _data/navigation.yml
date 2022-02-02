@@ -16,4 +16,4 @@ main:
     # url: /posts/
     
   - title: "CV"
-    url: /files/pdf/HerrnstadtCV_current.pdf/
+    url: "/files/pdf/HerrnstadtCV_current.pdf"
