@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <figure>
-  <img src="{{site.url}}/images/ww-photos/bookshelf.jpg"/>
+  <img src="{{site.url}}/images/ww-photos/bookshelf.jpg" ="675" ="480"/>
   <figcaption>Walnut and cherry bookshelf (2011)</figcaption>
 </figure>
 
