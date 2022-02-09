@@ -85,11 +85,11 @@ author:
   name             : "Evan Herrnstadt"
   avatar           : "/images/eh-photo.png"
   bio              : "Environmental and Industrial Organization Economist"
-#  location         : "St. Louis, MO"
+  location         : "Washington, DC area"
   employer         :
   pubmed           :
 #  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=7UrysEwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=7UrysEwAAAAJ"
 #  email            : "rob.williams@wustl.edu"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,14 +99,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eherrnst"
+#  github           : "eherrnst"
 #  gitlab           : "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "eherrnst"
+  linkedin         : "evan-herrnstadt-54050713"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
