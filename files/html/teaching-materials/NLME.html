@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml">
 
 <head>
 
@@ -233,7 +233,7 @@ dat &lt;-<span class="st"> </span>vote <span class="op">%&gt;%</span><span class
 
 mod1 &lt;-<span class="st"> </span><span class="kw">lme</span>(vote <span class="op">~</span><span class="st"> </span>population <span class="op">+</span><span class="st"> </span>region, <span class="dt">data =</span> dat, <span class="dt">random =</span> <span class="op">~</span><span class="st"> </span><span class="dv">1</span> <span class="op">|</span><span class="st"> </span>year)
 <span class="kw">htmlreg</span>(mod1, <span class="dt">stars =</span> .<span class="dv">05</span>)</code></pre></div>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
 <table cellspacing="0" align="center" style="border: none;">
 <caption align="bottom" style="margin-top:0.3em;">
 Statistical models
@@ -371,7 +371,7 @@ Num. groups
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">mod2 &lt;-<span class="st"> </span><span class="kw">lme</span>(vote <span class="op">~</span><span class="st"> </span>population <span class="op">+</span><span class="st"> </span>region, <span class="dt">data =</span> dat, <span class="dt">random =</span> <span class="op">~</span><span class="st"> </span><span class="dv">1</span> <span class="op">|</span><span class="st"> </span>year,
            <span class="dt">weights =</span> <span class="kw">varIdent</span>(<span class="op">~</span><span class="st"> </span><span class="dv">1</span> <span class="op">|</span><span class="st"> </span>year))
 <span class="kw">htmlreg</span>(mod2, <span class="dt">stars =</span> .<span class="dv">05</span>)</code></pre></div>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
 <table cellspacing="0" align="center" style="border: none;">
 <caption align="bottom" style="margin-top:0.3em;">
 Statistical models
@@ -512,7 +512,7 @@ Num. groups
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">mod3 &lt;-<span class="st"> </span><span class="kw">lme</span>(vote <span class="op">~</span><span class="st"> </span>population <span class="op">+</span><span class="st"> </span>region, <span class="dt">data =</span> dat, <span class="dt">random =</span> <span class="op">~</span><span class="st"> </span><span class="dv">1</span> <span class="op">|</span><span class="st"> </span>state,
            <span class="dt">correlation =</span> <span class="kw">corAR1</span>(<span class="dt">form =</span> <span class="op">~</span><span class="st"> </span>year <span class="op">|</span><span class="st"> </span>state))
 <span class="kw">htmlreg</span>(mod3, <span class="dt">stars =</span> .<span class="dv">05</span>)</code></pre></div>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
 <table cellspacing="0" align="center" style="border: none;">
 <caption align="bottom" style="margin-top:0.3em;">
 Statistical models
@@ -655,7 +655,7 @@ mod_lme4 &lt;-<span class="st"> </span><span class="kw">lmer</span>(vote <span c
 
 <span class="kw">htmlreg</span>(<span class="kw">list</span>(mod_nlme, mod_lme4), <span class="dt">stars =</span> .<span class="dv">05</span>,
         <span class="dt">custom.model.names =</span> <span class="kw">c</span>(<span class="st">'&lt;code&gt;nlme&lt;/code&gt;'</span>, <span class="st">'&lt;code&gt;lme4&lt;/code&gt;'</span>))</code></pre></div>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
 <table cellspacing="0" align="center" style="border: none;">
 <caption align="bottom" style="margin-top:0.3em;">
 Statistical models

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml">
 
 <head>
 
@@ -198,7 +198,7 @@ $(document).ready(function () {
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">apply</span>(mtcars, <span class="dv">2</span>, function(x) <span class="kw">max</span>(x) -<span class="st"> </span><span class="kw">min</span>(x))
 <span class="kw">apply</span>(mtcars, <span class="dv">2</span>, function(x) x -<span class="st"> </span><span class="kw">mean</span>(x))</code></pre></div>
 <p>Use the code below to load the COW non-state wars data. Note that I’m using the data to create the <code>wars_stable</code> dataframe since we’ll be performing many different operations on <code>wars</code>, so we can just conveniently re-assign <code>wars_stable</code> to <code>wars</code> after each change.</p>
-<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">wars_stable &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">'http://www.correlatesofwar.org/data-sets/COW-war/non-state-war-data-1/at_download/file'</span>)[, <span class="kw">c</span>(<span class="dv">1</span> , <span class="dv">2</span>, <span class="dv">12</span>, <span class="dv">22</span>:<span class="dv">24</span>)]
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">wars_stable &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">'https://www.correlatesofwar.org/data-sets/COW-war/non-state-war-data-1/at_download/file'</span>)[, <span class="kw">c</span>(<span class="dv">1</span> , <span class="dv">2</span>, <span class="dv">12</span>, <span class="dv">22</span>:<span class="dv">24</span>)]
 wars_stable$TotalCombatDeaths &lt;-<span class="st"> </span><span class="kw">as.integer</span>(<span class="kw">as.character</span>(<span class="kw">gsub</span>(<span class="st">','</span>, <span class="st">''</span>, wars_stable$TotalCombatDeaths))) <span class="co"># drop a thousands comma</span></code></pre></div>
 <p>We need to replace every single <code>-9</code> with <code>NA</code> so that R knows how to handle these missing values, and doesn’t think that there were lots of wars responsible for 9 births. The simplest way to do this is to replace them column by column.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">wars &lt;-<span class="st"> </span>wars_stable

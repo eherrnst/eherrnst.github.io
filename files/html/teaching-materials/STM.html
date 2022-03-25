@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml">
 
 <head>
 
@@ -174,12 +174,12 @@ $(document).ready(function () {
 </div>
 
 
-<p>As with all statistical analysis, one of the biggest parts of text analysis is data preparation. We’re going to be using a subset of the data from <span class="citation">Greene and Cross (2017)</span>, which are European Parliament speeches. These data are about as well cleaned and prepared as we could hope for, but we still have some work ahead of us. The data are available <a href="http://erdos.ucd.ie/europarl/downloads">here</a>.</p>
+<p>As with all statistical analysis, one of the biggest parts of text analysis is data preparation. We’re going to be using a subset of the data from <span class="citation">Greene and Cross (2017)</span>, which are European Parliament speeches. These data are about as well cleaned and prepared as we could hope for, but we still have some work ahead of us. The data are available <a href="https://erdos.ucd.ie/europarl/downloads">here</a>.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># download speeches and metadata</span>
-<span class="kw">download.file</span>(<span class="st">'http://erdos.ucd.ie/files/europarl/europarl-data-speeches.zip'</span>,
+<span class="kw">download.file</span>(<span class="st">'https://erdos.ucd.ie/files/europarl/europarl-data-speeches.zip'</span>,
               <span class="st">'europarl-data-speeches.zip'</span>)
 
-<span class="kw">download.file</span>(<span class="st">'http://erdos.ucd.ie/files/europarl/europarl-metadata.zip'</span>,
+<span class="kw">download.file</span>(<span class="st">'https://erdos.ucd.ie/files/europarl/europarl-metadata.zip'</span>,
               <span class="st">'europarl-metadata.zip'</span>)
 
 <span class="co"># extract speeches and metadata</span>

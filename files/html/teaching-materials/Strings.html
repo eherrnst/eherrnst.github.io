@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml">
 
 <head>
 
@@ -347,12 +347,12 @@ sims &lt;-<span class="st"> </span><span class="kw">list</span>()
 <div id="regex-for-text-analysis" class="section level2">
 <h2>Regex for Text Analysis</h2>
 <p>Many of the operations that packages like <code>quanteda</code> carry out to prepare a corpus for document feature matrix creation are powered by regular expressions. Stopwords can be easily removed with <code>gsub()</code> with <code>replacement = ''</code>, capitals can be removed with the base R function <code>tolower()</code>, and words can be stemmed and tokenized with <code>gsub()</code> as well. Luckily, the <code>dfm()</code> function in <code>quanteda</code> does all of these operations simultaneously. This is a great example of how it’s important to work smarter, not harder. If someone’s written a function that combines multiple different steps you need to carry out, use their code to do it in one line instead of having to write five lines.</p>
-<p>As with all statistical analysis, one of the biggest parts of text analysis is data preparation. We’re going to be using a subset of the data from <span class="citation">Greene and Cross (2017)</span>, which are European Parliament speeches. These data are about as well cleaned and prepared as we could hope for, but we still have some work ahead of us. The data are available <a href="http://erdos.ucd.ie/europarl/downloads">here</a>. <em>warning: don’t unzip the speeches folder in dropbox (or onedrive or google drive). It contains hundreds of thousands of files and dropbox will spend <em>hours</em> trying to index them all. Just copy the 2009 and 2010 folders into dropbox (or whatever).</em></p>
+<p>As with all statistical analysis, one of the biggest parts of text analysis is data preparation. We’re going to be using a subset of the data from <span class="citation">Greene and Cross (2017)</span>, which are European Parliament speeches. These data are about as well cleaned and prepared as we could hope for, but we still have some work ahead of us. The data are available <a href="https://erdos.ucd.ie/europarl/downloads">here</a>. <em>warning: don’t unzip the speeches folder in dropbox (or onedrive or google drive). It contains hundreds of thousands of files and dropbox will spend <em>hours</em> trying to index them all. Just copy the 2009 and 2010 folders into dropbox (or whatever).</em></p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co"># download speeches and metadata</span>
-<span class="kw">download.file</span>(<span class="st">'http://erdos.ucd.ie/files/europarl/europarl-data-speeches.zip'</span>,
+<span class="kw">download.file</span>(<span class="st">'https://erdos.ucd.ie/files/europarl/europarl-data-speeches.zip'</span>,
               <span class="st">'europarl-data-speeches.zip'</span>)
 
-<span class="kw">download.file</span>(<span class="st">'http://erdos.ucd.ie/files/europarl/europarl-metadata.zip'</span>,
+<span class="kw">download.file</span>(<span class="st">'https://erdos.ucd.ie/files/europarl/europarl-metadata.zip'</span>,
               <span class="st">'europarl-metadata.zip'</span>)
 
 <span class="co"># extract speeches and metadata</span>

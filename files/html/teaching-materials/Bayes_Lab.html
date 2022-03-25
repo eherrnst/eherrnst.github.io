@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml">
 
 <head>
 
@@ -152,7 +152,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>Using data on voting behavior in European elections from <a href="http://www.jkarreth.net/files/full_cses3.dta" class="uri">http://www.jkarreth.net/files/full_cses3.dta</a>, estimate a Bayesian logistic regression that predicts whether someone voted or not in 2007 as a function of their age, gender, education, and income. Present point estimates and measures of uncertainty for coefficient posterior distributions in a table. Calculate the predicted probability of voting as a function of age, and present in graphical form.</p>
+<p>Using data on voting behavior in European elections from <a href="https://www.jkarreth.net/files/full_cses3.dta" class="uri">https://www.jkarreth.net/files/full_cses3.dta</a>, estimate a Bayesian logistic regression that predicts whether someone voted or not in 2007 as a function of their age, gender, education, and income. Present point estimates and measures of uncertainty for coefficient posterior distributions in a table. Calculate the predicted probability of voting as a function of age, and present in graphical form.</p>
 <p>If you don’t want to write your own Stan model, there’s one available on my <a href="https://github.com/jayrobwilliams/JRWmisc/blob/master/logit.stan">GitHub</a>. Johannes Karreth has helpfully written a <a href="https://github.com/jkarreth/JKmisc/blob/master/MCMC_simcase_probs.R">function</a> that automatically performs predicted probability calcuations on the output of a Bayesian model. Combining the <code>summary()</code> function with <code>kable()</code> can produce a serviceable regression table, but I’ve written a <a href="https://github.com/jayrobwilliams/RWmisc/blob/master/mcmcreg.R">function</a> which makes much nicer looking tables with minimal effort.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(rstan) <span class="co"># Bayesian inference</span>
 <span class="kw">rstan_options</span>(<span class="dt">auto_write =</span> <span class="ot">TRUE</span>) <span class="co"># avoid recompiling model</span>
@@ -160,7 +160,7 @@ $(document).ready(function () {
 <span class="kw">library</span>(xtable) <span class="co"># table output</span>
 
 <span class="co"># read in data from Johannes Karreth's website and subset to 2007</span>
-elections &lt;-<span class="st"> </span>rio<span class="op">::</span><span class="kw">import</span>(<span class="st">'http://www.jkarreth.net/files/full_cses3.dta'</span>)
+elections &lt;-<span class="st"> </span>rio<span class="op">::</span><span class="kw">import</span>(<span class="st">'https://www.jkarreth.net/files/full_cses3.dta'</span>)
 elections &lt;-<span class="st"> </span>elections[<span class="kw">grepl</span>(<span class="st">'2007'</span>, elections<span class="op">$</span>election), ]
 
 <span class="co"># drop NAs in right and left side variables</span>
@@ -194,7 +194,7 @@ vote_fit &lt;-<span class="st"> </span><span class="kw">stan</span>(<span class=
 <span class="co"># create regression table</span>
 <span class="kw">mcmcreg</span>(vote_fit, <span class="dt">pars =</span> <span class="st">'beta'</span>, <span class="dt">format =</span> <span class="st">'html'</span>, <span class="dt">caption =</span> <span class="st">'Bayesian logistic regression.</span>
 <span class="st">        Point estimates are posterior means.'</span>)</code></pre></div>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
 <table cellspacing="0" align="center" style="border: none;">
 <caption align="bottom" style="margin-top:0.3em;">
 Bayesian logistic regression. Point estimates are posterior means.
