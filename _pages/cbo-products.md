@@ -24,7 +24,7 @@ Cost Estimates
 S. 2881, 5G Spectrum Act of 2019 (with Kathy Gramp and David Hughes)
 [[Estimate]](https://www.cbo.gov/publication/56199)
 
-H.R. 3, Elijah E. Cummings Lower Drug Costs Now Act
+H.R. 3, Elijah E. Cummings Lower Drug Costs Now Act (with many others)
 [[Estimate]](https://www.cbo.gov/publication/55936)
 [[Preliminary Letter]](https://www.cbo.gov/publication/55722) 
 
