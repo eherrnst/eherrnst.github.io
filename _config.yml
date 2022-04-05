@@ -83,7 +83,7 @@ social:
 # Site Author
 author:
   name             : "Evan Herrnstadt"
-  avatar           : "/images/eh-photo.png"
+  avatar           : "https://www.evanherrnstadt.com/images/eh-photo.png"
   bio              : "Environmental and Industrial Organization Economist"
 # location         : ""
   employer         :
