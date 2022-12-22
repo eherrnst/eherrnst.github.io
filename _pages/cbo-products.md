@@ -9,6 +9,9 @@ author_profile: true
 
 CBO Working Papers and Reports
 ======
+"How CBO Analyzes the Effects of Charging the Oil and Gas Industry for Methane Emissions" (with Austin Castellanos), 2022 
+[[Link]](https://www.cbo.gov/publication/58444)
+
 "Technical Information About How CBO Models the Effects of Climate Change on Output in Its Long-Term Economic Projections", 2021
 [[Link]](https://www.cbo.gov/publication/57421)
 
@@ -28,8 +31,4 @@ H.R. 3, Elijah E. Cummings Lower Drug Costs Now Act (with many others)
 [[Estimate]](https://www.cbo.gov/publication/55936)
 [[Preliminary Letter]](https://www.cbo.gov/publication/55722) 
 
-
-
-  
-
-  
+ 
