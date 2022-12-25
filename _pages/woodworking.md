@@ -45,6 +45,10 @@ author_profile: true
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/planebox2.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/recipebox.jpg">| --->
 
+|***Cherry valet tray (2018)*** | ***Pine and poplar Dutch tool chest (2019)*** |
+| :---: | :---: |
+| <img width="480" src="{{site.url}}/images/ww-photos/tray.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/toolchest.jpg">| 
+
 |***Cherry spoon (2019)*** | ***Cherry cocktail muddler (2020)*** | 
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/cherryspoon.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/muddler.jpg">| 
