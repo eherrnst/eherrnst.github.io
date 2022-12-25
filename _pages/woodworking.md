@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 |***Walnut and cherry bookshelf (2011)*** | ***Walnut and cherry cutting board (2011)*** |
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/bookshelf.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/cuttingboard1.jpg">| 
@@ -27,7 +28,7 @@ author_profile: true
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/ipad.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/sixpack.jpg">| 
 
-|*** Cherry and jatoba cheeseboard (2015) ***|  |***Walnut anniversary wine box (2016)*** |
+|***Cherry and jatoba cheeseboard (2015)***|  ***Walnut anniversary wine box (2016)*** |
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/cheeseboard.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/winebox_2016.jpg">| 
 
@@ -36,7 +37,7 @@ author_profile: true
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/ringbox_2016.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/speakerstands.jpg">| 
 
-*** Cherry valet tray (2018) *** | ***Pine and poplar Dutch tool chest (2019)*** |
+***Cherry valet tray (2018)*** | ***Pine and poplar Dutch tool chest (2019)*** |
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/tray.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/toolchest.jpg">| 
 
@@ -44,31 +45,39 @@ author_profile: true
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/planebox2.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/recipebox.jpg">| 
 
-|***Cherry spoon (2019) *** | *** Cherry cocktail muddler (2020) *** | 
+|***Cherry spoon (2019)*** | ***Cherry cocktail muddler (2020)*** | 
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/cherryspoon.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/muddler.jpg">| 
 
-|***Douglas fir laptop stand (2020) *** | *** Mesquite and walnut salt cellar (2020) *** | 
+|***Douglas fir laptop stand (2020)*** | ***Mesquite and walnut salt cellar (2020)*** | 
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/laptopstand.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/saltcellar.jpg">| 
 
 
-| ***Walnut and cherry trestle coffee table (2020), side *** | ***Walnut and cherry trestle coffee table (2020), end*** |
+| ***Walnut and cherry trestle coffee table (2020), side*** | ***Walnut and cherry trestle coffee table (2020), end*** |
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/trestle_side.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/trestle_end.jpg">| 
 
 
-| ***Walnut serving spoon (2020) *** | ***Cherry game box *** |
+| ***Walnut serving spoon (2020)*** | ***Cherry game box (2020)*** |
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/walnutspoon.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/gamebox.jpg">| 
 
-| *** Walnut dice box (2020) *** | *** Snowflake Christmas ornament (2020) *** |
+| ***Walnut dice box (2020)*** | 
+| :---: |
+| <img width="480" src="{{site.url}}/images/ww-photos/dicebox.jpg">|
+
+<!---| ***Walnut dice box (2020)*** | ***Snowflake Christmas ornament (2020)***|
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/dicebox.jpg">| | 
 
-| *** Cherry rattle (2020) *** | ***Cherry coat rack (2021) *** |
+| ***Cherry rattle (2020)*** | ***Cherry coat rack (2021)*** |
 | :---: | :---: |
-| | | 
+| | | --->
+ 
   
+
+  
+
 
   
