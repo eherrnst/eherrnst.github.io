@@ -20,7 +20,7 @@ author_profile: true
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/cuttingboard4.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/cutting_board_comm.jpg">| 
 
-|*** Jatoba and sapele wedding ring box (2015)*** | ***African mahogany wine box (2015)*** |
+|*** Jatoba and sapele wedding ring box (2015)*** | ***African mahogany and maple wine box (2015)*** |
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/ringbox_2015.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/winebox_2015.jpg">| 
 
