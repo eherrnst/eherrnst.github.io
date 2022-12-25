@@ -37,7 +37,7 @@ author_profile: true
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/ringbox_2016.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/speakerstands.jpg">| 
 
-***Cherry valet tray (2018)*** | ***Pine and poplar Dutch tool chest (2019)*** |
+|***Cherry valet tray (2018)*** | ***Pine and poplar Dutch tool chest (2019)*** |
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/tray.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/toolchest.jpg">| 
 
