@@ -45,33 +45,29 @@ author_profile: true
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/planebox2.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/recipebox.jpg">| 
 
-|***Cherry valet tray (2018)*** | ***Pine and poplar Dutch tool chest (2019)*** |
-| :---: | :---: |
-| <img width="480" src="{{site.url}}/images/ww-photos/tray.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/toolchest.jpg">| 
-
 |***Cherry spoon (2019)*** | ***Cherry cocktail muddler (2020)*** | 
 | :---: | :---: |
-| <img width="480" src="{{site.url}}/images/ww-photos/cherryspoon.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/muddler.jpg">| 
+| <img width="480" src="{{site.url}}/images/ww-photos/cherryspoon.JPG">| <img width="480" src="{{site.url}}/images/ww-photos/muddler.JPG">| 
 
 |***Douglas fir laptop stand (2020)*** | ***Mesquite and walnut salt cellar (2020)*** | 
 | :---: | :---: |
-| <img width="480" src="{{site.url}}/images/ww-photos/laptopstand.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/saltcellar.jpg">| 
+| <img width="480" src="{{site.url}}/images/ww-photos/laptopstand.JPG">| <img width="480" src="{{site.url}}/images/ww-photos/saltcellar.JPG">| 
 
 
 | ***Walnut and cherry trestle coffee table (2020), side*** | ***Walnut and cherry trestle coffee table (2020), end*** |
 | :---: | :---: |
-| <img width="480" src="{{site.url}}/images/ww-photos/trestle_side.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/trestle_end.jpg">| 
+| <img width="480" src="{{site.url}}/images/ww-photos/trestle_side.JPG">| <img width="480" src="{{site.url}}/images/ww-photos/trestle_end.JPG">| 
 
 
 | ***Walnut serving spoon (2020)*** | ***Cherry game box (2020)*** |
 | :---: | :---: |
-| <img width="480" src="{{site.url}}/images/ww-photos/walnutspoon.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/gamebox.jpg">| 
+| <img width="480" src="{{site.url}}/images/ww-photos/walnutspoon.JPG">| <img width="480" src="{{site.url}}/images/ww-photos/gamebox.JPG">| 
 
 | ***Walnut dice box (2020)*** | 
 | :---: |
-| <img width="480" src="{{site.url}}/images/ww-photos/dicebox.jpg">|
+| <img width="480" src="{{site.url}}/images/ww-photos/dicebox.JPG">|
 
-***Walnut dice box (2020)*** | ***Snowflake Christmas ornament (2020)***|
+<!--- |***Walnut dice box (2020)*** | ***Snowflake Christmas ornament (2020)***|
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/dicebox.jpg">| | 
 
