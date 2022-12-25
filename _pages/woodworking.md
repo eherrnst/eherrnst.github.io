@@ -41,9 +41,9 @@ author_profile: true
 | :---: | :---: |
 | <img width="480" src="{{site.url}}/images/ww-photos/tray.jpg">|  <img width="480" src="{{site.url}}/images/ww-photos/toolchest.jpg">| 
 
-<!---| | ***Pine router plane box (2019)*** | ***Cherry recipe box (2019)*** |
+| ***Pine router plane box (2019)*** | ***Cherry recipe box (2019)*** |
 | :---: | :---: |
-| <img width="480" src="{{site.url}}/images/ww-photos/planebox2.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/recipebox.jpg">| --->
+| <img width="480" src="{{site.url}}/images/ww-photos/planebox2.jpg">| <img width="480" src="{{site.url}}/images/ww-photos/recipebox.jpg">| 
 
 |***Cherry valet tray (2018)*** | ***Pine and poplar Dutch tool chest (2019)*** |
 | :---: | :---: |
