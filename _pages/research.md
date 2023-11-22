@@ -9,7 +9,8 @@ author_profile: true
 
 Published Papers
 ======
-"Drilling Deadlines and Oil and Gas Development" (with Ryan Kellogg and Eric Lewis) &nbsp;&nbsp; Accepted, *Econometrica*  
+"Drilling Deadlines and Oil and Gas Development" (with Ryan Kellogg and Eric Lewis)
+Accepted, *Econometrica*  
 [[PDF]](https://eherrnst.github.io/files/pdf/research/hkl-leasing.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w27165/w27165.pdf)
 [[Code]](https://github.com/kelloggrk/Public_HBP)
 
