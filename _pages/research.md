@@ -7,20 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Working Papers 
+Published Papers
 ======
-
-"The Economics of Time-Limited Development Options: The Case of Oil and Gas Leases" (with Ryan Kellogg and Eric Lewis) &nbsp;&nbsp; Revise and Resubmit, *Econometrica*  
+"Drilling Deadlines and Oil and Gas Development" (with Ryan Kellogg and Eric Lewis) &nbsp;&nbsp; Accepted, *Econometrica*  
 [[PDF]](https://eherrnst.github.io/files/pdf/research/hkl-leasing.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w27165/w27165.pdf)
 [[Code]](https://github.com/kelloggrk/Public_HBP)
 
-"Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness" (with Richard Sweeney) &nbsp;&nbsp; Conditionally Accepted, *Land Economics*  
-[[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w23858/w23858.pdf)
-[[Code]](https://github.com/rlsweeney/public_HS_pipelines)
-
-
-Published Papers
-======
 "Air Pollution and Criminal Activity: Microgeographic Evidence from Chicago"  
 (with Anthony Heyes, Erich Muehlegger, and Soodeh Saberian)  
 [*American Economic Journal: Applied Economics*](https://doi.org/10.1257/app.20190091) (2021) [[PDF]](https://eherrnst.github.io/files/pdf/research/hhms-crime-and-pollution-aej.pdf) [[Code]](https://doi.org/10.3886/E119403V1)
@@ -37,6 +29,12 @@ Published Papers
 (with Carolyn Fischer and Richard Morgenstern)  
 [*Resource and Energy Economics*](https://doi.org/10.1016/j.reseneeco.2009.04.003) (2009) [[PDF]](https://eherrnst.github.io/files/pdf/research/fhm-projections.pdf)
 
+Working Papers 
+======
+
+"Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness" (with Richard Sweeney) &nbsp;&nbsp; Conditionally Accepted, *Land Economics*  
+[[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w23858/w23858.pdf)
+[[Code]](https://github.com/rlsweeney/public_HS_pipelines)
 
 Resting Paper
 ======

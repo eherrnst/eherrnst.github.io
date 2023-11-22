@@ -9,6 +9,9 @@ author_profile: true
 
 CBO Working Papers and Reports
 ======
+"Flood Damage and Federally Backed Mortgages in a Changing Climate" (with Jeffrey Perry), 2023 
+[[Link]](https://www.cbo.gov/publication/59379)
+
 "How CBO Analyzes the Effects of Charging the Oil and Gas Industry for Methane Emissions" (with Austin Castellanos), 2022 
 [[Link]](https://www.cbo.gov/publication/58444)
 
