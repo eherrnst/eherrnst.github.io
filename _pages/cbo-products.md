@@ -9,6 +9,9 @@ author_profile: true
 
 CBO Working Papers and Reports
 ======
+"Emissions of Greenhouse Gases in the Manufacturing Sector" (with Austin Castellanos), 2024
+[[Link]](https://www.cbo.gov/publication/59695)
+
 "Flood Damage and Federally Backed Mortgages in a Changing Climate" (with Jeffrey Perry), 2023 
 [[Link]](https://www.cbo.gov/publication/59379)
 
