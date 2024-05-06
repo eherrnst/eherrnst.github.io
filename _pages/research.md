@@ -9,13 +9,13 @@ author_profile: true
 
 Published Papers
 ======
-"Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness" 
-(with Richard Sweeney) Forthcoming, 
-*Land Economics*  [[NBER WP]](https://www.nber.org/system/files/working_papers/w23858/w23858.pdf)
+"Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness"  
+(with Richard Sweeney)  
+*Land Economics* (Forthcoming)
 
-"How Economists Could Help Inform Economic and Budget Analysis Used by the US Congress" 
-(Contributed As Staff of the Congressional Budget Office)
-[*Journal of Economic Perspectives*](https:/doi.org/10.1257/jep.38.2.3) (2024)
+"How Economists Could Help Inform Economic and Budget Analysis Used by the US Congress"  
+(Contributed As Staff of the Congressional Budget Office)  
+[*Journal of Economic Perspectives*] (https:/doi.org/10.1257/jep.38.2.3) (2024)
 
 "Drilling Deadlines and Oil and Gas Development"  
 (with Ryan Kellogg and Eric Lewis)  
