@@ -9,6 +9,14 @@ author_profile: true
 
 Published Papers
 ======
+"Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness" 
+(with Richard Sweeney) Forthcoming, 
+*Land Economics*  [[NBER WP]](https://www.nber.org/system/files/working_papers/w23858/w23858.pdf)
+
+"How Economists Could Help Inform Economic and Budget Analysis Used by the US Congress" 
+(Contributed As Staff of the Congressional Budget Office)
+[*Journal of Economic Perspectives*](https:/doi.org/10.1257/jep.38.2.3) (2024)
+
 "Drilling Deadlines and Oil and Gas Development"  
 (with Ryan Kellogg and Eric Lewis)  
 [*Econometrica*](https://doi.org/10.3982/ECTA18436) (2024) [[PDF]](https://eherrnst.github.io/files/pdf/research/hkl-leasing.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w27165/w27165.pdf)
@@ -30,12 +38,8 @@ Published Papers
 (with Carolyn Fischer and Richard Morgenstern)  
 [*Resource and Energy Economics*](https://doi.org/10.1016/j.reseneeco.2009.04.003) (2009) [[PDF]](https://eherrnst.github.io/files/pdf/research/fhm-projections.pdf)
 
-Working Papers 
-======
-
-"Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness" (with Richard Sweeney) &nbsp;&nbsp; Conditionally Accepted, *Land Economics*  
-[[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf) [[NBER WP]](https://www.nber.org/system/files/working_papers/w23858/w23858.pdf)
-[[Code]](https://github.com/rlsweeney/public_HS_pipelines)
+(%Working Papers 
+====== %)
 
 Resting Paper
 ======
