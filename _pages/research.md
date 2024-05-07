@@ -38,9 +38,6 @@ Published Papers
 (with Carolyn Fischer and Richard Morgenstern)  
 [*Resource and Energy Economics*](https://doi.org/10.1016/j.reseneeco.2009.04.003) (2009) [[PDF]](https://eherrnst.github.io/files/pdf/research/fhm-projections.pdf)
 
-{%Working Papers 
-====== %}
-
 Resting Paper
 ======
 "Conservation Versus Competition? Environmental Objectives in Government Contracting"  
