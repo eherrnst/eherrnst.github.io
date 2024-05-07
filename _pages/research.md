@@ -11,7 +11,7 @@ Published Papers
 ======
 "Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness"  
 (with Richard Sweeney)  
-*Land Economics*[https://doi.org/10.3368/le.100.4.040220-0047R1] (Forthcoming) [[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf)
+[*Land Economics*](https://doi.org/10.3368/le.100.4.040220-0047R1) (Forthcoming) [[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf)
 
 "How Economists Could Help Inform Economic and Budget Analysis Used by the US Congress"  
 (Contributed As Staff of the Congressional Budget Office)  
