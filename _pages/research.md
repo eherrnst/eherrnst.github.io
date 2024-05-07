@@ -11,11 +11,11 @@ Published Papers
 ======
 "Housing Market Capitalization of Pipeline Risk: Evidence from a Shock to Salience and Awareness"  
 (with Richard Sweeney)  
-*Land Economics* (Forthcoming)
+*Land Economics*[https://doi.org/10.3368/le.100.4.040220-0047R1] (Forthcoming) [[PDF]](https://eherrnst.github.io/files/pdf/research/hs-pipelines.pdf)
 
 "How Economists Could Help Inform Economic and Budget Analysis Used by the US Congress"  
 (Contributed As Staff of the Congressional Budget Office)  
-[*Journal of Economic Perspectives*](https:/doi.org/10.1257/jep.38.2.3) (2024)
+[*Journal of Economic Perspectives*](https://doi.org/10.1257/jep.38.2.3) (2024) [[PDF]](https://eherrnst.github.io/files/pdf/research/cbo-jep.pdf)
 
 "Drilling Deadlines and Oil and Gas Development"  
 (with Ryan Kellogg and Eric Lewis)  
