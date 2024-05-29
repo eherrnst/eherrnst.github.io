@@ -9,6 +9,9 @@ author_profile: true
 
 CBO Working Papers and Reports
 ======
+"Flood Damage Avoided by Potential Spending on Property-Level Adaptations" (with Jared Jageler), 2024 
+[[Link]](https://www.cbo.gov/publication/58168)
+
 "Emissions of Greenhouse Gases in the Manufacturing Sector" (with Austin Castellanos), 2024
 [[Link]](https://www.cbo.gov/publication/59695)
 
