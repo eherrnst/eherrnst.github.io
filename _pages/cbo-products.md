@@ -9,6 +9,9 @@ author_profile: true
 
 CBO Working Papers and Reports
 ======
+"The Effects of Flooding on the Subsidy Cost of Federally Backed Mortgages" (with Hark Yoo), 2024 
+[[Link]](https://www.cbo.gov/publication/60167)
+
 "Flood Damage Avoided by Potential Spending on Property-Level Adaptations" (with Jared Jageler), 2024 
 [[Link]](https://www.cbo.gov/publication/58168)
 
